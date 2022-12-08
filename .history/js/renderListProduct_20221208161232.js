@@ -1,0 +1,5 @@
+get
+
+const renderListProduct = () => {
+    getData()
+}
